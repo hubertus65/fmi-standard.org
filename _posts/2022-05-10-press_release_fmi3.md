@@ -30,6 +30,7 @@ The development of FMI 3.0 has been guided by the needs of new use cases, and th
  
 For those interested in the added technical features that FMI 3.0 has over FMI 2.0, see the following resource: 
 
+ *	Short list of new features in FMI 3.0 in the FMI FAQ https://fmi-standard.org/faq/
  *	FMI 3.0: paper at the 2021 Modelica Conference: https://ecp.ep.liu.se/index.php/modelica/article/view/178
 
 # About the Modelica Association. 
